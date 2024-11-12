@@ -1,0 +1,44 @@
+body{
+    width: 100%;
+    margin: 0%;
+}
+header {
+    background-color: #ead7d1;
+    text-align: center;
+    margin: 0%;
+    padding: 10px;
+}
+
+nav {
+   background-color: darksalmon;
+   text-align: center;
+   padding: 20px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 40px;
+}
+section {
+    padding: 60px 20px;
+    text-align: center;
+}
+
+h2 {
+    margin: 20px;
+}
+
+
+footer {
+    background-color: #ead7d1;
+    padding: 20px;
+    text-align: center;
+}
+div{
+    background-color: #ca95c7;
+    padding: 25px;
+}
+section{
+    background: rgb(16,15,15);
+    background: linear-gradient(90deg, rgba(16,15,15,1) 0%, rgba(254,184,255,1) 35%, rgba(255,255,255,1) 100%);
+}
